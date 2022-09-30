@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "17CDF33D-B752-40CF-95C1-327A79BEE79E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11DB2833-F110-4197-BFAE-7FCF6E18F71C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodVision/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "11DB2833-F110-4197-BFAE-7FCF6E18F71C - 135c8c208b56ea1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodVision.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; FoodVision.ViewController"
+                  moduleName = "FoodVision"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sekaye/Desktop/Learning/Dev/FoodVision/FoodVision/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "11DB2833-F110-4197-BFAE-7FCF6E18F71C - 7476cc9b77f12e32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodVision.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;FoodVision.ViewController&gt;"
+                  moduleName = "FoodVision"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sekaye/Desktop/Learning/Dev/FoodVision/FoodVision/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SwiftErrorBreakpoint">
+         <BreakpointContent
+            uuid = "56F0EBE7-DD3C-4340-8E65-F338CD039D54"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "3E8F500E-1D0E-48AD-AFC3-57FA4CA73D24"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "general"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "0"
+            stopOnStyle = "0">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.DebuggerCommand">
+                  <ActionContent
+                     consoleCommand = "">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B66B4BC7-B09F-4926-8EE9-6C49CA474D55"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodVision/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B66B4BC7-B09F-4926-8EE9-6C49CA474D55 - 62718ee6a215b98b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodVision.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; FoodVision.ViewController"
+                  moduleName = "FoodVision"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sekaye/Desktop/Learning/Dev/FoodVision/FoodVision/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "B66B4BC7-B09F-4926-8EE9-6C49CA474D55 - 135c8c208b56f25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodVision.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; FoodVision.ViewController"
+                  moduleName = "FoodVision"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sekaye/Desktop/Learning/Dev/FoodVision/FoodVision/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "B66B4BC7-B09F-4926-8EE9-6C49CA474D55 - df932cd226ce005c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodVision.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;FoodVision.ViewController&gt;"
+                  moduleName = "FoodVision"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sekaye/Desktop/Learning/Dev/FoodVision/FoodVision/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "B66B4BC7-B09F-4926-8EE9-6C49CA474D55 - 7476cc9b77f12fb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodVision.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;FoodVision.ViewController&gt;"
+                  moduleName = "FoodVision"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sekaye/Desktop/Learning/Dev/FoodVision/FoodVision/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "B66B4BC7-B09F-4926-8EE9-6C49CA474D55 - 5edba5a69ca386e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodVision.ViewController.__deallocating_deinit"
+                  moduleName = "FoodVision"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sekaye/Desktop/Learning/Dev/FoodVision/FoodVision/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
